@@ -1,9 +1,16 @@
+![Hello World Banner](https://user-images.githubusercontent.com/75164662/120937440-162a2200-c716-11eb-92d5-d292efd39d32.png)
+
+
 ### Hi there 👋 I'm Desi!
 
 I'm a part-time university student studying Computer Science, with one year to go until graduation! 😄
-I realized my passion for programming when I began my studies. 
+I realized my passion for programming when I began my studies. I just love it when I figure out a solution to a challenging problem!
 
-Right now, the most important thing for me is to expand my knowledge in programming. I want to gain experience in Laravel, Python, Java, SQL and Game Development.
+Right now, the most important thing for me is to expand my knowledge in programming. I want to gain experience in PHP, Laravel, Python, Java, SQL and Game Development.
+
+In my free time I enjoy challenging myself on Code Wars and learning best practices when coding.
+I love exercise, plants, sushi and taking long walks.
+
 
 ---
 
