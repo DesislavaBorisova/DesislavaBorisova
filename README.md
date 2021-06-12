@@ -9,7 +9,7 @@ I realized my passion for programming when I began my studies. I just love it wh
 Right now, the most important thing for me is to expand my knowledge in programming. I want to gain experience in PHP, Laravel, Python, Java, SQL and Game Development.
 
 In my free time I enjoy challenging myself on Code Wars and learning best practices when coding.
-I love exercise, plants, sushi and taking long walks.
+I love exercise, plants, sushi and long walks.
 
 
 ---
